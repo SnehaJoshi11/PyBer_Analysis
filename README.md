@@ -24,8 +24,8 @@ Analyze the given datasets, ride_data("location", "date" and "fare" for each rid
 <p>
 
 As per the analysis,
-- It shows that Urban area have higher number of rides but Total Average Fare per ride is less than Rural area. ($24.53 vs $34.62)
-- In Urban cities, the total fares are higher than Rural and Suburban cities. ($39,854.38 vs $4,327.93) ,($39,854.38 vs 19356.33)
+- It shows that Urban area have higher number of rides but Average Fare per ride is less than Rural area. ($24.53 vs $34.62)
+- In Urban cities, the total fares are higher than Rural and Suburban cities. ($39,854.38 vs $4,327.93) ,($39,854.38 vs 19,356.33)
 - In Urban cities the Average Fare per driver is less as compared to Rural cities. ($16.57 vs $55.49)
 
 
@@ -53,7 +53,7 @@ In Multiple line chart,
 - The urban city rides make more revenue than the rural area but rural city rides are more profitable than the urban area.
   - So, it would be great to focus on improvising the plan to make urban cities rides more profitable.
 - Also, it would be great to focus on drivers count, though urban cities have less rides than the drivers count. 
-- Increase the per mile charges in urban cities because there are more short trips and Average fare per ride is less.
+- Increase the per mile charges in urban cities because there are more short trips and Average fare per driver is less.
 - To increase the drivers count , they can charge more to drivers who is consistence in their work. 
 
  
