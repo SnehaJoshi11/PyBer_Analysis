@@ -50,8 +50,10 @@ In Multiple line chart,
 
 ## Summary
 
-- The urban city rides makes more revenue than the rural area but rural city rides are more profitable than the urban area.
+- The urban city rides make more revenue than the rural area but rural city rides are more profitable than the urban area.
   - So, it would be great to focus on improvising the plan to make urban cities rides more profitable.
-- Also, it would be great to focus on drivers count, though urban cities has less rides than the drivers count. 
+- Also, it would be great to focus on drivers count, though urban cities have less rides than the drivers count. 
+- Increase the per mile charges in urban cities because there are more short trips and Average fare per ride is less.
+- To increase the drivers count , they can charge more to drivers who is consistence in their work. 
 
  
