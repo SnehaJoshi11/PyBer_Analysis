@@ -21,15 +21,37 @@ Analyze the given datasets, ride_data("location", "date" and "fare" for each rid
 3. Report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
-
 <p>
-  <img src="Resources/PyBer_summary_df.png">
+
+As per the below analysis,
+- It shows that Urban area have higher number of rides but Total Average Fare per ride is less than Rural area. ($24.53 vs $34.62)
+- In Urban cities, the total fares are higher than Rural and Suburban cities. ($39,854.38 vs $4,327.93) ,($39,854.38 vs 19356.33)
+- In Urban cities the Average Fare per driver is less as compared to Rural cities. ($16.57 vs $55.49)
+
+
+</P>
+
+
+  <p><img src="Resources/PyBer_summary_df.png", width=700>
     </p>
   
+  
+  
+In Multiple line chart,
+ - We can get information on weekly basis of "Total fare by city type" within the given timeframe that is January 2019 to April 2019.
+ - It shows ride-sharing company has more total fares and profits in urban cities than in suburban and rural cities.
+ - In below chart it shows urban cities has reached its  total fare to $ 2500 in the month of Feb itself but for rural area maximum total fare reached to $500 in month of April. 
+
+
+
+<p><img src="Analysis/PyBer_fare_summary.png", width=1000>
+    </p>  
 
 
 ## Summary
 
-
+- The urban city rides make more revenue and the rural city rides are more profitable.
+  - So, it would be great to focus on improvising the plan to make urban cities rides more profitable.
+- Also, it would be great to focus on drivers count, though urban cities has less rides than the drivers count. 
 
  
