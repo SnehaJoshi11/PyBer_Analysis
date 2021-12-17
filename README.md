@@ -22,7 +22,10 @@ Analyze the given datasets, ride_data("location", "date" and "fare" for each rid
 
 ## Results
 
-
+<p>
+  <img src="Resources/PyBer_summary_df.png">
+    </p>
+  
 
 
 ## Summary
