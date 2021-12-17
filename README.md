@@ -23,7 +23,7 @@ Analyze the given datasets, ride_data("location", "date" and "fare" for each rid
 ## Results
 <p>
 
-As per the below analysis,
+As per the analysis,
 - It shows that Urban area have higher number of rides but Total Average Fare per ride is less than Rural area. ($24.53 vs $34.62)
 - In Urban cities, the total fares are higher than Rural and Suburban cities. ($39,854.38 vs $4,327.93) ,($39,854.38 vs 19356.33)
 - In Urban cities the Average Fare per driver is less as compared to Rural cities. ($16.57 vs $55.49)
